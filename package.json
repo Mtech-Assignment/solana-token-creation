@@ -1,0 +1,20 @@
+{
+  "name": "token-metadata-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.5.6",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/spl-token-metadata": "^0.1.5",
+    "@solana/web3.js": "^1.95.3",
+    "token-metadata-script": "file:",
+    "typescript": "^5.6.3"
+  },
+  "type": "module"
+}
